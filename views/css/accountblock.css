@@ -38,6 +38,13 @@
     text-overflow: ellipsis;
 }
 
+/* Hide name on mobile */
+@media (max-width: 767px) {
+    #accountblock .account-name {
+        display: none;
+    }
+}
+
 /* Account Menu (for logged in users) */
 .account-menu {
     position: absolute;
