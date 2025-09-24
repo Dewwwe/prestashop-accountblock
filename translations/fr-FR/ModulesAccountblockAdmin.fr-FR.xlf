@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="admin-lpdy" source-language="fr-FR" target-language="fr-FR" datatype="plaintext">
+    <body>
+      <trans-unit id="bb8956c67b82c7444a80c6b2433dd8b4">
+        <source>Are you sure you want to uninstall this module?</source>
+        <target>Are you sure you want to uninstall this module?</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="84f9117ac1754fe674dc9db573585a94">
+        <source>Adds an account block with login form or account links in the displayNav2 hook</source>
+        <target>Adds an account block with login form or account links in the displayNav2 hook</target>
+        <note>Line: </note>
+      </trans-unit>
+      <trans-unit id="e861cbcd38a5b8d5d3f3f40005aa4814">
+        <source>Account Block</source>
+        <target>Account Block</target>
+        <note>Line: </note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
